@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "JVFloatLabeledTextField"
+  s.name         = "JVFloatLabeledText"
   s.version      = "1.2.2"
   s.summary      = "The original UITextField subclass implementing the Float Label Pattern."
   s.homepage     = "http://github.com/jverdi/JVFloatLabeledTextField"
